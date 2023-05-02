@@ -11,9 +11,8 @@
 
 <br>
 例子：<br>
-`
 ./portscan -h 10.111.1<br>
 ./portscan -h 192.168.1.1-192.168.2.111<br>
 ./portscan -h 10.111.1.22 -p 80,7001,8080 -m 200 -t 6<br>
 ./portscan -f hk.txt -p 80,443 -m 200 -t 12 -o result.txt<br>
-`
+
