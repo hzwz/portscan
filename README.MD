@@ -1,4 +1,4 @@
-#网络资产信息扫描
+# 网络资产信息扫描
 <br>
 运行环境:python 2.6 +<br>
 <br>
@@ -12,7 +12,7 @@
 
 <br>
 例子：<br>
-- python NAScan.py -h 10.111.1
-- python NAScan.py -h 192.168.1.1-192.168.2.111
-- python NAScan.py -h 10.111.1.22 -p 80,7001,8080 -m 200 -t 6
-- python NAScan.py -f hk.txt -p 80,443 -m 200 -t 12 -o result.txt
+python NAScan.py -h 10.111.1<br>
+python NAScan.py -h 192.168.1.1-192.168.2.111<br>
+python NAScan.py -h 10.111.1.22 -p 80,7001,8080 -m 200 -t 6<br>
+python NAScan.py -f hk.txt -p 80,443 -m 200 -t 12 -o result.txt<br>
